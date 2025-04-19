@@ -1,0 +1,8 @@
+displayName: "[gold]The Factory"
+name: "thefactory"
+author: "TheFogIOF"
+main: "tfmg.main.TheFactoryMod"
+description: "[gray]Mechanics similar to the game Factorio."
+version: 2.0.1
+minGameVersion: 147
+java: true
